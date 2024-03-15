@@ -1,0 +1,43 @@
+{
+  "id": "kaggler2412/dementia-patient-health-and-prescriptions-dataset",
+  "id_no": 4378098,
+  "datasetSlugNullable": "dementia-patient-health-and-prescriptions-dataset",
+  "ownerUserNullable": "kaggler2412",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Dementia Patient Health,Prescriptions ML Dataset",
+  "subtitleNullable": "Dementia Prediction, Prescription, Dosage and Patient Health Parameters Dataset",
+  "descriptionNullable": "# About Dataset\n**Diabetic (Binary)**: Indicates whether a patient has been diagnosed with diabetes (1 for yes, 0 for no).\n\n**Alcohol Level (Continuous)**: Measures the alcohol consumption level of patients, possibly reflecting lifestyle choices.\n\n**Heart Rate (Continuous)**: Denotes the number of heartbeats per minute, a critical indicator of cardiovascular health.\n\n**Blood Oxygen Level (Continuous)**: The saturation of oxygen in the blood, a vital sign of respiratory function.\n\n**Body Temperature (Continuous)**: The measured temperature of the body in Celsius, indicating potential fever or hypothermia.\n\n**Weight (Continuous)**: The mass of the patient in kilograms, a fundamental measure of health.\n\n**MRI Delay (Continuous)**: The time delay in obtaining an MRI scan, potentially indicative of the progression or severity of medical conditions.\n\n**Prescription**: The specific medication prescribed to the patient, relevant for treatment analysis.\n\n**Dosage in mg (Continuous)**: The amount of medication prescribed, critical for dosage-effect studies.\n\n**Age (Continuous)**: The age of the patient, an essential demographic factor.\n\n**Education_Level**: The highest level of education attained by the patient, which may correlate with health literacy.\n\n**Dominant_Hand**: Indicates the dominant hand of the patient, which could relate to neurological functions.\n\n**Gender**: The gender of the patient, a key demographic characteristic.\n\n**Family_History**: Indicates a family history of dementia, a significant risk factor.\n\n**Smoking_Status**: Reflects the patient's smoking habits, an important lifestyle indicator.\n\n**APOE_\u03b54**: Shows the presence of the APOE \u03b54 allele, a genetic variant associated with Alzheimer's disease.\n\n**Physical_Activity**: The level of physical activity of the patient, highlighting lifestyle impacts on health.\n\n**Depression_Status**: Indicates whether the patient has depression, which can be related to cognitive health.\n\n**Cognitive_Test_Scores (Continuous)**: Scores from cognitive tests, direct measures of cognitive function.\n\n**Medication_History**: Records whether the patient has a history of medication use, relevant for drug interactions.\n\n**Nutrition_Diet**: Describes the patient's diet, an important health factor.\n\n**Sleep_Quality**: Assesses the quality of the patient's sleep, a critical aspect of health.\n\n**Chronic_Health_Conditions**: Notes any chronic health conditions the patient has, key for comorbidity studies.\n\n**Dementia (Binary)**: Serves as the target variable, indicating the presence (1) or absence (0) of dementia.\n\nThis dataset serves as a rich source for analysis, providing a multifaceted view of factors that may contribute to the onset and progression of dementia. It is a valuable resource for researchers looking to explore the complex interplay between lifestyle, genetics, and health outcomes. From PUBMED, Online research sources, NHS, Google scholar and consultation with healthcare professionals.",
+  "datasetId": 4378098,
+  "datasetSlug": "dementia-patient-health-and-prescriptions-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "kaggler2412",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 959,
+  "totalVotes": 18,
+  "totalDownloads": 279,
+  "title": "Dementia Patient Health,Prescriptions ML Dataset",
+  "hasTitle": true,
+  "subtitle": "Dementia Prediction, Prescription, Dosage and Patient Health Parameters Dataset",
+  "hasSubtitle": true,
+  "description": "# About Dataset\n**Diabetic (Binary)**: Indicates whether a patient has been diagnosed with diabetes (1 for yes, 0 for no).\n\n**Alcohol Level (Continuous)**: Measures the alcohol consumption level of patients, possibly reflecting lifestyle choices.\n\n**Heart Rate (Continuous)**: Denotes the number of heartbeats per minute, a critical indicator of cardiovascular health.\n\n**Blood Oxygen Level (Continuous)**: The saturation of oxygen in the blood, a vital sign of respiratory function.\n\n**Body Temperature (Continuous)**: The measured temperature of the body in Celsius, indicating potential fever or hypothermia.\n\n**Weight (Continuous)**: The mass of the patient in kilograms, a fundamental measure of health.\n\n**MRI Delay (Continuous)**: The time delay in obtaining an MRI scan, potentially indicative of the progression or severity of medical conditions.\n\n**Prescription**: The specific medication prescribed to the patient, relevant for treatment analysis.\n\n**Dosage in mg (Continuous)**: The amount of medication prescribed, critical for dosage-effect studies.\n\n**Age (Continuous)**: The age of the patient, an essential demographic factor.\n\n**Education_Level**: The highest level of education attained by the patient, which may correlate with health literacy.\n\n**Dominant_Hand**: Indicates the dominant hand of the patient, which could relate to neurological functions.\n\n**Gender**: The gender of the patient, a key demographic characteristic.\n\n**Family_History**: Indicates a family history of dementia, a significant risk factor.\n\n**Smoking_Status**: Reflects the patient's smoking habits, an important lifestyle indicator.\n\n**APOE_\u03b54**: Shows the presence of the APOE \u03b54 allele, a genetic variant associated with Alzheimer's disease.\n\n**Physical_Activity**: The level of physical activity of the patient, highlighting lifestyle impacts on health.\n\n**Depression_Status**: Indicates whether the patient has depression, which can be related to cognitive health.\n\n**Cognitive_Test_Scores (Continuous)**: Scores from cognitive tests, direct measures of cognitive function.\n\n**Medication_History**: Records whether the patient has a history of medication use, relevant for drug interactions.\n\n**Nutrition_Diet**: Describes the patient's diet, an important health factor.\n\n**Sleep_Quality**: Assesses the quality of the patient's sleep, a critical aspect of health.\n\n**Chronic_Health_Conditions**: Notes any chronic health conditions the patient has, key for comorbidity studies.\n\n**Dementia (Binary)**: Serves as the target variable, indicating the presence (1) or absence (0) of dementia.\n\nThis dataset serves as a rich source for analysis, providing a multifaceted view of factors that may contribute to the onset and progression of dementia. It is a valuable resource for researchers looking to explore the complex interplay between lifestyle, genetics, and health outcomes. From PUBMED, Online research sources, NHS, Google scholar and consultation with healthcare professionals.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "categorical",
+    "exploratory data analysis",
+    "data analytics",
+    "deep learning",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
